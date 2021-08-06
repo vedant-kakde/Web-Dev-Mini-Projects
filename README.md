@@ -6,4 +6,6 @@
 4. Technical Documentation Page
 5. Personal Portfolio Page
 6. Blurry Loading
-7. Simple Calculator App
+7. Vertical Slider
+8. Random Choice Picker
+9. Simple Calculator App
