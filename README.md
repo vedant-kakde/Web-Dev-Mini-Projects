@@ -1,7 +1,7 @@
 # Web-Dev-Projects
 
 | Sr. No.      | Project Name                 | Live Demo   |
-| :---         |     :---:                    |        ---: |
+| :---         |     :---                     | :---:       |
 | 1            | Tribute Page                 | Link        |
 | 2            | Survey Form                  | Link        |
 | 3            | Product Landing Page         | Link        |
