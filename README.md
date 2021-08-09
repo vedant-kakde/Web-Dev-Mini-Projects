@@ -7,7 +7,7 @@
 | 3            | Product Landing Page         | Link        |
 | 4            | Technical Documentation Page | Link        |
 | 5            | Personal Portfolio Page      | Link        |
-| 6            | Blurry Loading               | <a href="https://vedant-kakde.github.io/Web-Dev-Projects/blurry-loading/" target="_blank">Link</a>        |
-| 7            | Vertical Slider              | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/vertical-slider/?target=_blank)        |
+| 6            | Blurry Loading               | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/blurry-loading/)        |
+| 7            | Vertical Slider              | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/vertical-slider/)        |
 | 8            | Random Choice Picker         | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/random-choice-picker/)        |
 | 9            | Simple Calculator App        | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/simple-calculator/)        |
