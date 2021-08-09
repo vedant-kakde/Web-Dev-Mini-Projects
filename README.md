@@ -10,4 +10,4 @@
 | 6            | Blurry Loading               | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/blurry-loading/)        |
 | 7            | Vertical Slider              | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/vertical-slider/)        |
 | 8            | Random Choice Picker         | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/random-choice-picker/)        |
-| 9            | Simple Calculator App        | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/simple-calculator/)        |
+| 9            | Simple Calculator App        | [Link](https://vedant-kakde.github.io/Web-Dev-Projects/calculator-app/)        |
