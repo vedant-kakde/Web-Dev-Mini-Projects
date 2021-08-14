@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Web-Dev-Projects
+# 👨🏻‍💻 Web Dev Mini Projects
 
 | Sr. No.      | Project Name                 | Live Demo   |
 | :---         |     :---                     | :---:       |
